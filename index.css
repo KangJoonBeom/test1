@@ -1,0 +1,41 @@
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    min-height: 100vh;
+    /* height: 300px; */
+    background-color:lightgreen;
+}
+#login_box {
+    width: 260px;     
+    background-color: skyblue;
+    /* border: 1px blue solid; */
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
+#btn {
+    box-shadow: 1px 1px 1px;
+}
+
+#all{
+    background-color: lightgreen;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 100vh;
+}
+
+#all_dv{
+    background-color: skyblue;
+    border-radius: 20px;
+    background-size: contain;
+    padding-left : 50px;
+    padding-right : 50px;
+    padding-top : 50px;
+    padding-bottom: 50px;
+}
